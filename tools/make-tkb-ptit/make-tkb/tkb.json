@@ -1,0 +1,4451 @@
+{
+  "data": [
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-01-30T02:00:00.000Z",
+      "thoiGianBatDau": "2023-01-30T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-01-30T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174238,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-01-30",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-02-06T02:00:00.000Z",
+      "thoiGianBatDau": "2023-02-06T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-06T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174239,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-02-13T02:00:00.000Z",
+      "thoiGianBatDau": "2023-02-13T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-13T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174240,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-13",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-02-20T02:00:00.000Z",
+      "thoiGianBatDau": "2023-02-20T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-20T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174241,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-20",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-02-27T02:00:00.000Z",
+      "thoiGianBatDau": "2023-02-27T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-27T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174242,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-27",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-03-06T02:00:00.000Z",
+      "thoiGianBatDau": "2023-03-06T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-06T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174243,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-03-13T02:00:00.000Z",
+      "thoiGianBatDau": "2023-03-13T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-13T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174244,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-13",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-03-20T02:00:00.000Z",
+      "thoiGianBatDau": "2023-03-20T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-20T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174245,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-20",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-03-27T02:00:00.000Z",
+      "thoiGianBatDau": "2023-03-27T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-27T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174246,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-27",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-03T02:00:00.000Z",
+      "thoiGianBatDau": "2023-04-03T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-03T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174247,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-10T02:00:00.000Z",
+      "thoiGianBatDau": "2023-04-10T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-10T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174248,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-17T02:00:00.000Z",
+      "thoiGianBatDau": "2023-04-17T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-17T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174249,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-24T02:00:00.000Z",
+      "thoiGianBatDau": "2023-04-24T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-24T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174250,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-05-08T02:00:00.000Z",
+      "thoiGianBatDau": "2023-05-08T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-08T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174251,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-05-08",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-05-15T02:00:00.000Z",
+      "thoiGianBatDau": "2023-05-15T02:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-15T04:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174252,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-05-15",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-03-27T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-27T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-27T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174253,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-27",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-03T05:00:00.000Z",
+      "thoiGianBatDau": "2023-04-03T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-03T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174254,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-10T05:00:00.000Z",
+      "thoiGianBatDau": "2023-04-10T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-10T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174255,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-17T05:00:00.000Z",
+      "thoiGianBatDau": "2023-04-17T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-17T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174256,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-04-24T05:00:00.000Z",
+      "thoiGianBatDau": "2023-04-24T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-24T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174257,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-04-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-05-08T05:00:00.000Z",
+      "thoiGianBatDau": "2023-05-08T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-08T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174258,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-05-08",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Xây dựng các hệ thống nhúng - INT1461",
+      "thoiGianDienRa": "2023-05-15T05:00:00.000Z",
+      "thoiGianBatDau": "2023-05-15T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-15T07:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1174259,
+        "lop_tin_chi_id": [
+          73144,
+          "INT1461-20222-02"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2637,
+          "INT1461"
+        ],
+        "ten_hoc_phan": "Xây dựng các hệ thống nhúng",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-05-15",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          5774,
+          "KM1022"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đỗ Tiến Dũng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-02-11T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-11T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-11T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176528,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-11",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-02-18T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-18T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-18T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176529,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-18",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-02-25T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-25T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-25T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176530,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-02-25",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-03-04T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-04T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-04T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176531,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-04",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-03-11T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-11T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-11T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176532,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-11",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-03-18T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-18T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-18T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176533,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-18",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Chuyên đề công nghệ phần mềm - INT1408",
+      "thoiGianDienRa": "2023-03-25T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-25T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-25T02:00:00.000Z",
+      "diaDiem": "304-A2",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176534,
+        "lop_tin_chi_id": [
+          73254,
+          "INT1408-20222-01"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2632,
+          "INT1408"
+        ],
+        "ten_hoc_phan": "Chuyên đề công nghệ phần mềm",
+        "tong_so_sinh_vien": 58,
+        "ngay_bd": "2023-03-25",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3539,
+          "KCN100243"
+        ],
+        "email": "phuongnd@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Duy Phương",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-01-30T00:00:00.000Z",
+      "thoiGianBatDau": "2023-01-30T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-01-30T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176628,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-01-30",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-06T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-06T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-06T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176629,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-13T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-13T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-13T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176630,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-13",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-20T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-20T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-20T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176631,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-20",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-27T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-27T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-27T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176632,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-27",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-03-06T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-06T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-06T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176633,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-03-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-03-13T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-13T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-13T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176634,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-03-13",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-03-20T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-20T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-20T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176635,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-03-20",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-03-27T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-27T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-27T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176636,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-03-27",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-04-03T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-03T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-03T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176637,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-04-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-04-10T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-10T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-10T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176638,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-04-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-04-17T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-17T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-17T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176639,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-04-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-04-24T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-24T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-24T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176640,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-04-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-05-08T00:00:00.000Z",
+      "thoiGianBatDau": "2023-05-08T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-08T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176641,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-05-08",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-05-15T00:00:00.000Z",
+      "thoiGianBatDau": "2023-05-15T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-15T02:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176642,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-05-15",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-01-30T05:00:00.000Z",
+      "thoiGianBatDau": "2023-01-30T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-01-30T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176643,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-01-30",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-06T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-06T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-06T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176644,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-13T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-13T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-13T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176645,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-13",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-20T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-20T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-20T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176646,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-20",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-02-27T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-27T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-27T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176647,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-02-27",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-03-06T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-06T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-06T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176648,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-03-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Đảm bảo chất lượng phần mềm - INT1416",
+      "thoiGianDienRa": "2023-03-13T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-13T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-13T07:00:00.000Z",
+      "diaDiem": "403-A2",
+      "thu": 0,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176649,
+        "lop_tin_chi_id": [
+          73264,
+          "INT1416-20222-03"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2633,
+          "INT1416"
+        ],
+        "ten_hoc_phan": "Đảm bảo chất lượng phần mềm",
+        "tong_so_sinh_vien": 77,
+        "ngay_bd": "2023-03-13",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          4073,
+          "PM1018"
+        ],
+        "email": false,
+        "ten_giang_vien": "Đào Ngọc Phong",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-03T07:00:00.000Z",
+      "thoiGianBatDau": "2023-02-03T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-03T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176848,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-10T07:00:00.000Z",
+      "thoiGianBatDau": "2023-02-10T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-10T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176849,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-17T07:00:00.000Z",
+      "thoiGianBatDau": "2023-02-17T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-17T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176850,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-24T07:00:00.000Z",
+      "thoiGianBatDau": "2023-02-24T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-24T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176851,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-03T07:00:00.000Z",
+      "thoiGianBatDau": "2023-03-03T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-03T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176852,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-10T07:00:00.000Z",
+      "thoiGianBatDau": "2023-03-10T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-10T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176853,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-17T07:00:00.000Z",
+      "thoiGianBatDau": "2023-03-17T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-17T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176854,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-24T07:00:00.000Z",
+      "thoiGianBatDau": "2023-03-24T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-24T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176855,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-31T07:00:00.000Z",
+      "thoiGianBatDau": "2023-03-31T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-31T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176856,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-31",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-04-07T07:00:00.000Z",
+      "thoiGianBatDau": "2023-04-07T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-07T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176857,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-04-07",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-04-14T07:00:00.000Z",
+      "thoiGianBatDau": "2023-04-14T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-14T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176858,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-04-14",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-04-21T07:00:00.000Z",
+      "thoiGianBatDau": "2023-04-21T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-21T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176859,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-04-21",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-04-28T07:00:00.000Z",
+      "thoiGianBatDau": "2023-04-28T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-28T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176860,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-04-28",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-05-05T07:00:00.000Z",
+      "thoiGianBatDau": "2023-05-05T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-05T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176861,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-05-05",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-05-12T07:00:00.000Z",
+      "thoiGianBatDau": "2023-05-12T07:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-12T09:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176862,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-05-12",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-03T11:00:00.000Z",
+      "thoiGianBatDau": "2023-02-03T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-03T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176863,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-10T11:00:00.000Z",
+      "thoiGianBatDau": "2023-02-10T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-10T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176864,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-17T11:00:00.000Z",
+      "thoiGianBatDau": "2023-02-17T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-17T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176865,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-02-24T11:00:00.000Z",
+      "thoiGianBatDau": "2023-02-24T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-24T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176866,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-02-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-03T11:00:00.000Z",
+      "thoiGianBatDau": "2023-03-03T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-03T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176867,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-10T11:00:00.000Z",
+      "thoiGianBatDau": "2023-03-10T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-10T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176868,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Kiến trúc và thiết kế phần mềm - INT1427",
+      "thoiGianDienRa": "2023-03-17T11:00:00.000Z",
+      "thoiGianBatDau": "2023-03-17T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-17T13:00:00.000Z",
+      "diaDiem": "605-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1176869,
+        "lop_tin_chi_id": [
+          73274,
+          "INT1427-20222-07"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2634,
+          "INT1427"
+        ],
+        "ten_hoc_phan": "Kiến trúc và thiết kế phần mềm",
+        "tong_so_sinh_vien": 44,
+        "ngay_bd": "2023-03-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3556,
+          "KCN100264"
+        ],
+        "email": "mhnguyen@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Mạnh Hùng",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-03T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-03T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-03T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177224,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-10T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-10T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-10T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177225,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-17T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-17T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-17T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177226,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-24T00:00:00.000Z",
+      "thoiGianBatDau": "2023-02-24T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-24T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177227,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-03T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-03T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-03T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177228,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-10T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-10T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-10T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177229,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-17T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-17T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-17T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177230,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-24T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-24T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-24T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177231,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-31T00:00:00.000Z",
+      "thoiGianBatDau": "2023-03-31T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-31T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177232,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-31",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-04-07T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-07T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-07T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177233,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-04-07",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-04-14T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-14T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-14T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177234,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-04-14",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-04-21T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-21T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-21T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177235,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-04-21",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-04-28T00:00:00.000Z",
+      "thoiGianBatDau": "2023-04-28T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-28T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177236,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-04-28",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-05-05T00:00:00.000Z",
+      "thoiGianBatDau": "2023-05-05T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-05T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177237,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-05-05",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-05-12T00:00:00.000Z",
+      "thoiGianBatDau": "2023-05-12T00:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-12T02:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177238,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-05-12",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-03T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-03T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-03T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177239,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-10T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-10T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-10T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177240,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-17T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-17T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-17T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177241,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-02-24T05:00:00.000Z",
+      "thoiGianBatDau": "2023-02-24T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-24T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177242,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-02-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-03T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-03T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-03T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177243,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-10T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-10T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-10T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177244,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển phần mềm hướng dịch vụ - INT1448",
+      "thoiGianDienRa": "2023-03-17T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-17T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-17T07:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177245,
+        "lop_tin_chi_id": [
+          73290,
+          "INT1448-20222-05"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2635,
+          "INT1448"
+        ],
+        "ten_hoc_phan": "Phát triển phần mềm hướng dịch vụ",
+        "tong_so_sinh_vien": 60,
+        "ngay_bd": "2023-03-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3557,
+          "KCN100265"
+        ],
+        "email": "khanhnt@ptit.edu.vn",
+        "ten_giang_vien": "Nguyễn Trọng Khánh",
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-02-03T09:00:00.000Z",
+      "thoiGianBatDau": "2023-02-03T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-03T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177487,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-02-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-02-10T09:00:00.000Z",
+      "thoiGianBatDau": "2023-02-10T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-10T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177488,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-02-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-02-17T09:00:00.000Z",
+      "thoiGianBatDau": "2023-02-17T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-17T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177489,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-02-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-02-24T09:00:00.000Z",
+      "thoiGianBatDau": "2023-02-24T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-02-24T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177490,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-02-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-03T09:00:00.000Z",
+      "thoiGianBatDau": "2023-03-03T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-03T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177491,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-03-03",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-10T09:00:00.000Z",
+      "thoiGianBatDau": "2023-03-10T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-10T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177492,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-03-10",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-17T09:00:00.000Z",
+      "thoiGianBatDau": "2023-03-17T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-17T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177493,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-03-17",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-24T09:00:00.000Z",
+      "thoiGianBatDau": "2023-03-24T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-24T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177494,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-03-24",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-31T09:00:00.000Z",
+      "thoiGianBatDau": "2023-03-31T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-31T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177495,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-03-31",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-07T09:00:00.000Z",
+      "thoiGianBatDau": "2023-04-07T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-07T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177496,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-07",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-14T09:00:00.000Z",
+      "thoiGianBatDau": "2023-04-14T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-14T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177497,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-14",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-21T09:00:00.000Z",
+      "thoiGianBatDau": "2023-04-21T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-21T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177498,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-21",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-28T09:00:00.000Z",
+      "thoiGianBatDau": "2023-04-28T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-28T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177499,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-28",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-05-05T09:00:00.000Z",
+      "thoiGianBatDau": "2023-05-05T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-05T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177500,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-05-05",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-05-12T09:00:00.000Z",
+      "thoiGianBatDau": "2023-05-12T09:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-12T11:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177501,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-05-12",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-31T11:00:00.000Z",
+      "thoiGianBatDau": "2023-03-31T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-31T13:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177502,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-03-31",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-07T11:00:00.000Z",
+      "thoiGianBatDau": "2023-04-07T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-07T13:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177503,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-07",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-14T11:00:00.000Z",
+      "thoiGianBatDau": "2023-04-14T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-14T13:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177504,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-14",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-21T11:00:00.000Z",
+      "thoiGianBatDau": "2023-04-21T11:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-21T13:00:00.000Z",
+      "diaDiem": "305-A2",
+      "thu": 4,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177505,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": false,
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 68,
+        "ngay_bd": "2023-04-21",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": [
+          3544,
+          "KCN100248"
+        ],
+        "email": "anhttv@ptit.edu.vn",
+        "ten_giang_vien": "Trịnh Thị Vân Anh",
+        "dien_thoai": "0912004866",
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-03-18T05:00:00.000Z",
+      "thoiGianBatDau": "2023-03-18T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-03-18T09:00:00.000Z",
+      "diaDiem": "509-A3",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177509,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": [
+          24799,
+          "INT1449-20222-08-02-TH"
+        ],
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 34,
+        "ngay_bd": "2023-03-18",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": false,
+        "email": false,
+        "ten_giang_vien": false,
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-04-08T05:00:00.000Z",
+      "thoiGianBatDau": "2023-04-08T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-04-08T09:00:00.000Z",
+      "diaDiem": "509-A3",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177510,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": [
+          24799,
+          "INT1449-20222-08-02-TH"
+        ],
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 34,
+        "ngay_bd": "2023-04-08",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": false,
+        "email": false,
+        "ten_giang_vien": false,
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    },
+    {
+      "loaiSuKien": "Lịch học",
+      "tenSuKien": "Phát triển ứng dụng cho các thiết bị di động - INT1449",
+      "thoiGianDienRa": "2023-05-06T05:00:00.000Z",
+      "thoiGianBatDau": "2023-05-06T05:00:00.000Z",
+      "thoiGianKetThuc": "2023-05-06T09:00:00.000Z",
+      "diaDiem": "509-A3",
+      "thu": 5,
+      "loaiDoiTuong": [
+        "Tất cả"
+      ],
+      "info": {
+        "id": 1177511,
+        "lop_tin_chi_id": [
+          73301,
+          "INT1449-20222-08"
+        ],
+        "nhom_lop_tin_chi_id": [
+          24799,
+          "INT1449-20222-08-02-TH"
+        ],
+        "hoc_phan_id": [
+          2636,
+          "INT1449"
+        ],
+        "ten_hoc_phan": "Phát triển ứng dụng cho các thiết bị di động",
+        "tong_so_sinh_vien": 34,
+        "ngay_bd": "2023-05-06",
+        "tiet_bd": false,
+        "so_tiet": 0,
+        "giang_vien_id": false,
+        "email": false,
+        "ten_giang_vien": false,
+        "dien_thoai": false,
+        "id_zoom": false,
+        "mat_khau_1": false
+      }
+    }
+  ],
+  "statusCode": 200
+}

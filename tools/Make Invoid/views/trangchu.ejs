@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="jquery.js"></script>
+  <script src="socket.io/socket.io.js"></script>
+  
+  
+  <title>Demo SocketIO</title>
+</head>
+
+<script>
+  // call server
+  var socket2 = io("http://localhost:7777");
+
+  $(document).ready(function () {
+    $("#para").click(function () {
+      $("#para").append('...||');
+    });
+    getlog();
+    //alert("Hello Love")
+  });
+</script>
+
+<body>
+  <p id="para">Hello Click me!</p>
+
+  <table class="rwd-table">
+    <tr>
+      <th>Mã</th>
+      <th>Tên</th>
+      <th>Số lượng</th>
+      <th>Đơn giá</th>
+      <th>Tổng</th>
+    </tr>
+  </table>
+  
+</body>
+
+</html>
