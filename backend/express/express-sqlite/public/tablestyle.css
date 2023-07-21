@@ -1,0 +1,22 @@
+
+.table-wrap {
+  height: 800px;
+  overflow-y: auto;
+}
+.table .table-hover {
+   background: #34495E;
+   color: rgb(0, 0, 0);
+   border-radius: .4em;
+   overflow: hidden;
+}
+td:last-child {
+  text-align: right;
+  padding-right: 10px;
+  
+}
+path {
+  fill: orange;
+}
+#myInput{
+  float: right;
+}
