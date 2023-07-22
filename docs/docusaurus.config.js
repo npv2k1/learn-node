@@ -76,6 +76,24 @@ const config = {
         sidebarPath: require.resolve("./sidebars.js"),
       },
     ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "typescript",
+        path: "../02-typescript",
+        routeBasePath: "typescript",
+        sidebarPath: require.resolve("./sidebars.js"),
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "tools",
+        path: "../tools",
+        routeBasePath: "tools",
+        sidebarPath: require.resolve("./sidebars.js"),
+      },
+    ],
   ],
 
   themeConfig:
@@ -91,6 +109,8 @@ const config = {
         },
         items: [
           { to: "/basic", label: "Basic", position: "left" },
+          { to: "/typescript", label: "Typescript", position: "left" },
+          { to: "/tools", label: "Tools", position: "left" },
           // {
           //   type: "docSidebar",
           //   sidebarId: "tutorialSidebar",
