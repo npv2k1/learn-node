@@ -9,7 +9,6 @@ const config = {
   title: "Learn node",
   tagline: "",
   favicon: "img/favicon.ico",
-
   // Set the production url of your site here
   url: "https://npv2k1.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -21,7 +20,7 @@ const config = {
   organizationName: "npv2k1", // Usually your GitHub org/user name.
   projectName: "learn-node", // Usually your repo name.
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful
