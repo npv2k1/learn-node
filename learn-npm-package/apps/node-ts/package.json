@@ -1,0 +1,34 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf dist/",
+    "dev": "ts-node src/index.ts",
+    "dev:watch": "nodemon",
+    "start:dev": "tsc --watch",
+    "start": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "npm-package-ts": "../../packages/npm-package-ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.19",
+    "concurrently": "^7.6.0",
+    "copyfiles": "^2.4.1",
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.22",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.2.0",
+    "tslib": "^2.6.0",
+    "typescript": "^4.9.5",
+    "npm-packge-js": "../../packages/npm-package-js"
+  }
+}

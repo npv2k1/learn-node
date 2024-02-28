@@ -1,0 +1,10 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  npm-package-js:
+    specifier: ../../packages/npm-package-js
+    version: link:../../packages/npm-package-js

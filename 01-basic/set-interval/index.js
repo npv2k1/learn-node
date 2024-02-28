@@ -1,9 +1,16 @@
-console.log("start")
-setInterval(() => {
-  console.log("Set 1");
-}, 1000);
+async function callMe(){
+  return new Promise((resolve, reject) =>
+    setTimeout(() => {
+      console.log("Set 1");
+      resolve();
+    }, 0)
+  );
+}
 
-setInterval(() => {
-  console.log("Set 2");
-}, 1000);
-console.log("end")
+async function main() {
+  console.log("start");
+  callMe();
+  console.log("end");
+}
+
+main();
